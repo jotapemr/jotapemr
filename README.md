@@ -1,16 +1,16 @@
 ### Hi there 👋
+## Olá! Eu sou o João Pedro 🖐️
+[![MasterHead](https://liyasthomas.github.io/banner/)]()
 
-<!--
-**jotapemr/jotapemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jota_pe234)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kiazy678)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias que eu uso no meu dia
+
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+
+
