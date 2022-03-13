@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Olá! Eu sou o João Pedro 🖐️
-[![MasterHead](https://liyasthomas.github.io/banner/)](https://github.com/jotapemr)
+![banner](https://user-images.githubusercontent.com/101481431/158063750-62a9f522-e536-4f00-a9e3-52e8501e718e.png)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jota_pe234)
