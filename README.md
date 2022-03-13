@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Olá! Eu sou o João Pedro mas podem me chamar de kiazy. 🖐️
 ![banner (2)](https://user-images.githubusercontent.com/101481431/158064013-d6cd6a45-bfd9-48fa-8180-01f1bf6ee95a.png)
 
