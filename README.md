@@ -12,6 +12,8 @@
 ## Tecnologias que eu uso no meu dia
 
 
+
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
