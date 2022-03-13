@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## Olá! Eu sou o João Pedro 🖐️
-![banner](https://user-images.githubusercontent.com/101481431/158063750-62a9f522-e536-4f00-a9e3-52e8501e718e.png)
+![banner (1)](https://user-images.githubusercontent.com/101481431/158063875-c2dfffd0-21ef-4620-b795-d5b215c4abd1.png)
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jota_pe234)
