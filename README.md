@@ -42,7 +42,7 @@
 
 ### Tools:
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio]
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
@@ -51,6 +51,9 @@
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment: 
+<div>
+<img align= "center" src="https://img.shields.io/badge/-C-Sharp-000000?logo=CSharp&logoColor=white"/>
+</div>
 
 ### Areas of Interest:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -59,8 +62,8 @@
 
 ### My Github Stats
 <div>
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=jotapemr&show_icons=true&theme=tokyonight"/>
-<img height="140em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jotapemr&layout=compact&theme=tokyonight"/>
+<img align= "center" height="180em" src= "https://github-readme-stats.vercel.app/api?username=jotapemr&show_icons=true&theme=tokyonight"/>
+<img align= "center" height="140em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jotapemr&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
