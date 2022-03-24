@@ -1,7 +1,7 @@
 
 ## Hii! 🌠
 ![banner (4)](https://user-images.githubusercontent.com/101481431/158068753-2fa71b82-f1d7-4d97-a626-d0966876ca0d.png)
-![](https://komarev.com/ghpvc/?username=jotapemr)
+
 
 ### Hello, I'm a second year high school student 🎒 currently living in Brazil, at the moment I'm learning the basics of backend languages, but I intend to become a full stack developer 💡.
 
@@ -23,4 +23,10 @@
 <img height="140em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jotapemr&layout=compact&theme=tokyonight"/>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jotapemr}/count.svg" /></p> 
+<br></div>
+
 ![Snake animation](https://github.com/jotapemr/jotapemr/blob/output/github-contribution-grid-snake.svg)
+
