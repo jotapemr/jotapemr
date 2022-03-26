@@ -28,6 +28,7 @@
 ## Social Network
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jota_pe234)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kiazy678)
+ <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/101481431/160220070-9e377a20-c0b7-404b-a10b-f879622bfbc8.gif">
 
 ### Main skills:
    
