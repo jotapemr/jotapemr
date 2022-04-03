@@ -3,26 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4925&color=8EF711&lines=Hello%2C+my+name+is+(%22Kiazy%22);I'm+studying+backend+development;For+now+i+have+%3E%3D+2+months+of+experience;Thx+for+the+visit+:%29)](https://git.io/typing-svg)
 
-
-
-
-<!-- <div align="center"   >   
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-Sharp-61DAFB?logo=csharp&logoColor=white&style=for-the-badge"/>
-</div> -->
-
-<!--   <div align="center">  
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSharp-0D1117?logo=csharp&logoColor=white&style=for-the-badge"/>
-</div> -->
-
-<!-- <div align="center">  
-  <img src="https://img.shields.io/badge/Visual-Studio-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117"/>
-</div> -->
-
-
 ### I'm a second year high school student 🎒 currently living in Brazil, at the moment I'm learning the basics of backend languages, but I intend to become a full stack developer 💡.
 
 ## Social Network
@@ -32,8 +12,12 @@
 
 ### Main skills:
    
-   <img src="https://img.shields.io/badge/CSharp-0D1117?logo=csharp&logoColor=white&style=for-the-badge"/>
-   <img aling= "center" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<div>  
+  <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-0D1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/CSharp-0D1117?logo=csharp&logoColor=white&style=for-the-badge"/>
+  <img align="center" src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/>
+ <img align="center" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>
+</div> 
     
 ### Tools:
 
@@ -48,8 +32,6 @@
 </div>
 
 ### Future Interests:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### My Github Stats
