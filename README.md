@@ -51,7 +51,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### My Github Stats
-<div>
+<div align="center">
 <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=jotapemr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jotapemr github stats"/>
  
 <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapemr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
@@ -63,5 +63,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jotapemr}/count.svg" /></p> 
 <br></div>
 
-![Snake animation](https://github.com/jotapemr/jotapemr/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://github.com/jotapemr/jotapemr/blob/output/github-contribution-grid-snake.svg"
+ <div/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
