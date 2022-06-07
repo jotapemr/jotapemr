@@ -5,7 +5,7 @@
 
 ### I'm a second year high school student 🎒 currently living in Brazil, at the moment I'm learning the basics of backend languages, but I intend to become a full stack developer 💡.
 
-## <h2>Social Network: <img src="https://user-images.githubusercontent.com/101481431/160220070-9e377a20-c0b7-404b-a10b-f879622bfbc8.gif" width="50"></h2>
+## <h2>Social Network : <img src="https://user-images.githubusercontent.com/101481431/160220070-9e377a20-c0b7-404b-a10b-f879622bfbc8.gif" width="50"></h2>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jota_pe234)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kiazy678)
 
