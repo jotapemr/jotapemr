@@ -41,15 +41,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-### Studying in this moment: 
+### Studying in this moment : 
 <div>
 <img align= "center" src="https://img.shields.io/badge/CSharp-0D1117?logo=csharp&logoColor=white&style=for-the-badge"/>
 </div>
 
-### Future Interests:
+### Future Interests :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### My Github Stats
+### My Github Stats :
 <div align="center">
 <img align= "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=jotapemr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="jotapemr github stats"/>
  
