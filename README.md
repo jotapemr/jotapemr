@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Console.Writeline(''hello'');&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4925&color=8EF711&lines=Hello%2C+my+name+is+(%22Kiazy%22);I'm+studying+backend+and+frontend+development;For+now+i+have+%3E%3D+2+months+of+experience;Thx+for+the+visit+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4925&color=8EF711&lines=Hello%2C+my+name+is+(%22João Pedro%22);I'm+studying+backend+and+frontend+development;For+now+i+have+%3E%3D+2+months+of+experience;Thx+for+the+visit+:%29)](https://git.io/typing-svg)
 
 ### I'm a second year high school student 🎒 currently living in Brazil, at the moment I'm learning the basics of backend languages, but I intend to become a full stack developer 💡.
 
